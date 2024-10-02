@@ -1,0 +1,40 @@
+[
+
+
+
+    {
+        "id":0,
+        "productName":"Avocado",
+        "quantity" : 5,
+        "price" : 15.9,
+        "description" : "A ripe avocado uieldds to getle pressure when held in the"
+    },
+    {
+        "id":1,
+        "productName":"Apple",
+        "quantity" : 42,
+        "price" : 50,
+        "description" : "A ripe Apple uieldds to getle pressure when held in the"
+    },
+    {
+        "id":2,
+        "productName":"Mango",
+        "quantity" : 2,
+        "price" : 200,
+        "description" : "A ripe Mango uieldds to getle pressure when held in the"
+    },
+    {
+        "id":3,
+        "productName":"Pineapple",
+        "quantity" : 20,
+        "price" : 18,
+        "description" : "A ripe Pineapple uieldds to getle pressure when held in the"
+    },
+    {
+        "id":4,
+        "productName":"Cherry",
+        "quantity" : 8,
+        "price" : 5,
+        "description" : "A ripe Cherry uieldds to getle pressure when held in the"
+    }
+]
