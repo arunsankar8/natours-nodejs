@@ -4,8 +4,8 @@
   "description": "natours travels",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js "
   },
   "author": "arun sankar s",
   "license": "ISC",
